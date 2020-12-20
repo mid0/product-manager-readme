@@ -17,7 +17,7 @@ Successful products are products that have a healthy intersection between value,
 ## My Work-style (WIP)
 * I start my day at First Light
 * I prefer in-person or communication over video
-* I like white-boards over slides (Live Miro/Murall sessions work too)
+* I like white-boards over slides (Live Miro/Mural sessions work too)
 * 1:1s are weekly are for feedback and development
 * Book time on my calendar directly
 * I check my emails a few times a day. I will answer within 24 hours
