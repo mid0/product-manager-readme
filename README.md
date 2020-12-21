@@ -8,9 +8,9 @@ I believe by sharing a bit about me and my work-style, we can be more effective.
 I am married, and I live in Brooklyn, NY. I was born not too far from where I live, but I have moved around a bit. My career has spanned over 20 years, starting as a web developer while in college. I managed my first team when I was 19 and co-founded a startup in the UK 5+ years ago. I enjoy making photographs and watching football (soccer) with friends and family.
 
 ## Some of my beliefs
-* My role is to maximize value given current condition.
-* People > process, process > platforms and platforms > products.
-* Successful products are products that have a healthy intersection between value, viability, usability, and feasibility.
+* My role is to maximize value given current condition
+* People > process, process > platforms and platforms > products
+* Successful products are products that have a healthy intersection between value, viability, usability, and feasibility
 
 ## My Work-style
 * I start my day at First Light
