@@ -30,3 +30,7 @@ I am married, and I live in Brooklyn, NY. I was born not too far from where I li
 ## Feedback
 * We are as good as our feedback loop
 * Frequent, on-time, and in private
+
+## Other
+* I expect surprises as we explore the unknown
+* I appreciate direct clear asks
